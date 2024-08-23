@@ -1,4 +1,4 @@
-# Yo! I'm Phatthanan Charoenphol 
+# Yo! I'm View 🏞️
 
 ![image](https://github.com/View-MG/View-MG/blob/main/image.png)
 
@@ -10,7 +10,18 @@
 
 ## My Coding Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,html,css)](https://skillicons.dev)
+Fundamental :
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,arduino)](https://skillicons.dev)
+
+Just Hello World! but I will study soon :
+
+[![My Skills](https://skillicons.dev/icons?i=py,java)](https://skillicons.dev)
+
+...
+
+[![My Skills](https://skillicons.dev/icons?i=html,js,css)](https://skillicons.dev)
+
 
 # About Me
 I'm Phatthanan Charoenphol :smiley:
