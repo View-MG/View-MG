@@ -1,6 +1,7 @@
 # Welcome to my profile
+
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?
-username=yourGitHubUsername&show_icons=true)
+username=View-MG&show_icons=true)
 
 # Who am I?
 I'm Phatthanan Charoenphol :smiley:
