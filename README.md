@@ -18,6 +18,7 @@ I'm Phatthanan Charoenphol :smiley:
 Computer Engineering And Digital Technology Chulalongkorn University
 
 ![image](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/cedt-engineer.svg)
+![image](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/chula-engineer.svg)
 
 
 ## What's my skills
@@ -26,7 +27,7 @@ Computer Engineering And Digital Technology Chulalongkorn University
 - Mathematics : I excel in high school math content, including subjects like algebra, geometry, calculus, and statistics. I am passionate about helping others understand and appreciate math
 
 ## My Interests
-- :computer: Competitive Programming
+- 🏆 Competitive Programming
 - :robot: Robotics
 - 👨‍🏫 Teaching
 - 📈 Calculus
