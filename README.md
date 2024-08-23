@@ -1,6 +1,6 @@
 # Welcome to my profile
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,html,css)](https://skillicons.dev)
 
 # Who am I?
 I'm Phatthanan Charoenphol :smiley:
