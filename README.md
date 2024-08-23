@@ -1,7 +1,6 @@
 # Welcome to my profile
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?
-username=View-MG&show_icons=true)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp)](https://skillicons.dev)
 
 # Who am I?
 I'm Phatthanan Charoenphol :smiley:
