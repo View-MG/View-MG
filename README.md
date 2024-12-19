@@ -1,10 +1,19 @@
 # Yo! I'm View 🏞️
 
-![image](https://github.com/View-MG/View-MG/blob/main/image.png)
+<h2 align="left">My Projects</h2>
+| Project Name | Description | Link |  
+|--------------|-------------|------|  
+| **[Computor Programming]** | 2110104-Computor-Programming | [View Repository](https://github.com/View-MG/2110104-Computor-Programming) |  
+| **[Project 2 Name]** | Brief description | [View Repository](#) |  
+| **[Project 3 Name]** | Brief description | [View Repository](#) | 
+- ⚙️ Academic Repository of [2110101 COMPUTER PROGRAMMING Course](https://github.com/reisenx/2110101-COM-PROG)
+- ⚙️ Academic Repository of [2110211 INTRO TO DATA STRUCTURE Course](https://github.com/reisenx/2110211-INTRO-DATA-STRUCT)
+- ⚙️ Academic Repository of [2110263 DIGITAL COMPUTER LOGIC LABORATORY I Course](https://github.com/reisenx/2110263-DIG-LOGIC-LAB-I)
+- 📚 [Intania Starter Kit 2024](https://drive.google.com/drive/folders/14brjzl8lX5lZvZNOC85Bw6nyOgGIzeTY?usp=sharing) (Academic Resources for Chula Engineering Freshmen)
 
-
-## My Stat
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=View-MG&show_icons=true)
+## My Stat 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=View-MG&show_icons=true&theme=radical)](https://github.com/View-MG)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=View-MG&layout=compact&theme=radical)](https://github.com/View-MG)  
 
 
 
@@ -41,6 +50,7 @@ Computer Engineering And Digital Technology Chulalongkorn University
 - 🏆 Competitive Programming
 - :robot: Robotics
 - 👨‍🏫 Teaching
+- 🌐 Web Development
 - 📈 Calculus
 - 🧲 Magnet
 
