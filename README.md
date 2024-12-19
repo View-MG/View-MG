@@ -1,9 +1,23 @@
 # Yo! I'm View 🏞️
 
+I'm Phatthanan Charoenphol :smiley:
+
+Computer Engineering And Digital Technology Chulalongkorn University
+
+![image](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/cedt-engineer.svg)
+![image](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/chula-engineer.svg)
+
+- I'm currently learning Python, C, C++, Java, HTML, CSS, JavaScript and TypeScript.
+  
+- I'm interested in Webstie Development, Software Development, Game Development and more!
+  
 <h2>My Projects</h2>
-- [2110104 Computor Programming](https://github.com/View-MG/2110104-Computor-Programming)
-- [2110328 Data Structures and Algorithms](https://github.com/View-MG/2110328-Data-Structures-and-Algorithms)
-- [2110252 Digital Computer Logic](https://github.com/View-MG/2110252-Digital-Computer-Logic)
+
+- Computer Programing [2110104 Computor Programming](https://github.com/View-MG/2110104-Computor-Programming)
+
+- Data Structure And Algorithms [2110328 Data Structures and Algorithms](https://github.com/View-MG/2110328-Data-Structures-and-Algorithms)
+  
+- Digital Logic [2110252 Digital Computer Logic](https://github.com/View-MG/2110252-Digital-Computer-Logic)
 
 ## My Stat 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=View-MG&show_icons=true&theme=radical)](https://github.com/View-MG)  
@@ -26,13 +40,6 @@ Just Hello World! but I will study soon :
 [![My Skills](https://skillicons.dev/icons?i=html,js,css)](https://skillicons.dev)
 
 
-# About Me
-I'm Phatthanan Charoenphol :smiley:
-
-Computer Engineering And Digital Technology Chulalongkorn University
-
-![image](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/cedt-engineer.svg)
-![image](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/chula-engineer.svg)
 
 
 ## What's my skills
