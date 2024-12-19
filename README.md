@@ -1,6 +1,6 @@
 # Yo! I'm View 🏞️
 
-<h2">My Projects</h2>
+<h2>My Projects</h2>
 - [2110104 Computor Programming](https://github.com/View-MG/2110104-Computor-Programming)
 - [2110328 Data Structures and Algorithms](https://github.com/View-MG/2110328-Data-Structures-and-Algorithms)
 - [2110252 Digital Computer Logic](https://github.com/View-MG/2110252-Digital-Computer-Logic)
