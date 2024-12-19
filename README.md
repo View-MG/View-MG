@@ -1,15 +1,9 @@
 # Yo! I'm View 🏞️
 
-<h2 align="left">My Projects</h2>
-| Project Name | Description | Link |  
-|--------------|-------------|------|  
-| **[Computor Programming]** | 2110104-Computor-Programming | [View Repository](https://github.com/View-MG/2110104-Computor-Programming) |  
-| **[Project 2 Name]** | Brief description | [View Repository](#) |  
-| **[Project 3 Name]** | Brief description | [View Repository](#) | 
-- ⚙️ Academic Repository of [2110101 COMPUTER PROGRAMMING Course](https://github.com/reisenx/2110101-COM-PROG)
-- ⚙️ Academic Repository of [2110211 INTRO TO DATA STRUCTURE Course](https://github.com/reisenx/2110211-INTRO-DATA-STRUCT)
-- ⚙️ Academic Repository of [2110263 DIGITAL COMPUTER LOGIC LABORATORY I Course](https://github.com/reisenx/2110263-DIG-LOGIC-LAB-I)
-- 📚 [Intania Starter Kit 2024](https://drive.google.com/drive/folders/14brjzl8lX5lZvZNOC85Bw6nyOgGIzeTY?usp=sharing) (Academic Resources for Chula Engineering Freshmen)
+<h2">My Projects</h2>
+- [2110104 Computor Programming](https://github.com/View-MG/2110104-Computor-Programming)
+- [2110328 Data Structures and Algorithms](https://github.com/View-MG/2110328-Data-Structures-and-Algorithms)
+- [2110252 Digital Computer Logic](https://github.com/View-MG/2110252-Digital-Computer-Logic)
 
 ## My Stat 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=View-MG&show_icons=true&theme=radical)](https://github.com/View-MG)  
