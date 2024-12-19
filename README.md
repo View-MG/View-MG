@@ -21,9 +21,8 @@ And I really enjoy this subject
   
 - Digital Logic 🔗[2110252 Digital Computer Logic](https://github.com/View-MG/2110252-Digital-Computer-Logic)
 
-- 💻 **Mini CPU Project**  🔗[[Final Project for Digital Logic Course]](https://github.com/View-MG/2110252-Digital-Computer-Logic/tree/main/Final_Project) More Details About the Project in the [README](https://github.com/View-MG/2110252-Digital-Computer-Logic)  
-
-<h6>อ่านรายละเอียดเพิ่มเติมในแต่ละ Project ที่ README</h6>
+- 💻 **Mini CPU Project**  🔗[[Final Project for Digital Logic Course]](https://github.com/View-MG/2110252-Digital-Computer-Logic/tree/main/Final_Project) More Details About the Project in the [README](https://github.com/View-MG/2110252-Digital-Computer-Logic)
+  <h6>อ่านรายละเอียดเพิ่มเติมในแต่ละ Project ที่ README</h6>
 
 
 ## My Coding Skills
