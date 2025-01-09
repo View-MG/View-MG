@@ -25,7 +25,7 @@ And I really enjoy this subject
 
 - **Portfolio Website** [Main-Page](https://view-mg.github.io/View-MG_Portfolio/)
   
-- **รวม Project** [Web Develop](https://github.com/View-MG/View-MG_Portfolio)
+- **รวม Project** [Web Develop](https://github.com/View-MG/Web-Develop-Projects)
   <h6>อ่านรายละเอียดเพิ่มเติมในแต่ละ Project ที่ README</h6>
 
 
