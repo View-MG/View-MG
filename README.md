@@ -33,12 +33,12 @@ And I really enjoy this subject
 
 Fundamental :
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,go)](https://skillicons.dev)
 
 
 Website Development :
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,ts,postman,docker)](https://skillicons.dev)
 
 
 
